@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-![](https://github-readme-stats.vercel.app/api?username=jc1327540662&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff )
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jc1327540662&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&" />
 <!--
 **jc1327540662/jc1327540662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ###
 I am a big data engineer, good at python backend, big data operation and maintenance, crawler, python data analysis, mapreduce, web, AI, etc. 
 ## 💬 Worked language for me
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Java
@@ -24,7 +23,7 @@ I am a big data engineer, good at python backend, big data operation and mainten
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
 
-- 🌱 I’m currently learning :
+## 🌱 I’m currently learning :
 - ✅ ⁠  AI / cnn / nlp 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Affective Computting 
 - ✅ ⁠  Embedded System
