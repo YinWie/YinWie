@@ -4,8 +4,8 @@
 
 ## 💬 Worked language for me
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python /⁢⁣⁡⁠ ⁢⁣⁡⁢⁣⁡C / C++
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡⁢⁣⁡Linux / 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript 
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡⁢⁣⁡PCB layout / u-boot / kenerl / BSP / Linux / 
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript / Vue 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
 
 <!-- ## 🌱 I’m currently learning
