@@ -5,7 +5,8 @@
 ## 💬 Worked language for me
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python /⁢⁣⁡⁠ ⁢⁣⁡⁢⁣⁡C / C++
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡⁢⁣⁡PCB layout / u-boot / kenerl / BSP / Linux / 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript / Vue 
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript / Vue
+- ✅ ⁠ ⁢⁣⁡⁠ FreeCAD / Klipper 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
 
 <!-- ## 🌱 I’m currently learning
